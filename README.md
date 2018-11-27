@@ -10,7 +10,7 @@
 
 ## Open the project in Xcode
 
-    open MMWallet.xcworkspace
+    open TestApianon.xcworkspace
 
 ## Build the project
 
